@@ -1,9 +1,9 @@
 # Credit Card Fraud Detection Project
 
-# Overview
+#### Overview
   - In this project, the goal is to apply machine learning techniques on a predictive model to see how accurate they are in detecting whether a transaction is a normal payment or a fraud. 
  
-# Objective
+#### Objective
   - Understand the litle distribution of data that was provided to us.
   - Create 50/50 sub-dataframe ratio of 'Fraud' and 'Non-Fraud' transactions.
   - Determine the Classifiers which one is the best suit for our model that has the highest accuracy.
